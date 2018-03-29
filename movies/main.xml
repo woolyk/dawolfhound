@@ -1,0 +1,10 @@
+    <dir>
+      <title>My lists</title>
+      <trakt>https://api.trakt.tv/users/wolfd01/lists/</trakt>
+    </dir>
+	
+    <dir>
+      <title>Search Trakt</title>
+      <trakt>search</trakt>
+    </dir>
+	
