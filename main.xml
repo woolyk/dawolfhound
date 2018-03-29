@@ -9,7 +9,7 @@
 	
 	<dir>
 		<name>TV Shows</name>
-		<link></link>
+		<link>https://raw.githubusercontent.com/woolyk/dawolfhound/master/tvshows/main.xml</link>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/tvshows.png</thumbnail>
 		<fanart></fanart>
 		<summary>TV Shows</summary>

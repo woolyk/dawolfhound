@@ -7,6 +7,14 @@
 		<summary>All my Movie lists</summary>
     </dir>
 	
+    <dir>
+		<title>Trending Movies</title>
+		<trakt>https://api.trakt.tv/movies/trending</trakt>
+ 		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
+		<summary>Movies Trending Now</summary>
+	</dir>	
+ 
 	<dir>
 		<title>Action</title>
 		<trakt>https://api.trakt.tv/users/wolfd01/lists/action-movies/items</trakt>
@@ -79,14 +87,6 @@
 		<summary>War Movies</summary>
 	</dir>
 
-    <dir>
-		<title>Trending Movies</title>
-		<trakt>https://api.trakt.tv/movies/trending</trakt>
- 		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
-		<fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
-		<summary>Movies Trending Now</summary>
-	</dir>	
- 
 	<dir>
       <title>Search Trakt</title>
       <trakt>search</trakt>
