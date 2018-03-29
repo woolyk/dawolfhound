@@ -1,6 +1,6 @@
     <dir>
-      <title>My lists</title>
-      <trakt>https://api.trakt.tv/users/wolfd01/lists/</trakt>
+      <title>My Lists Updated</title>
+	  <trakt>https://api.trakt.tv/users/wolfd01/lists</trakt>
 	  <thumbnail></thumbnail>
 	  <fanart></fanart>
 	  <summary>All my Movie lists</summary>
@@ -8,7 +8,7 @@
 	
 	<dir>
 		<title>Comedy Movies</title>
-		<trakt>https://trakt.tv/users/wolfd01/lists/comedy-movies</trakt>
+		<trakt>https://api.trakt.tv/users/wolfd01/lists/comedy-movies/</trakt>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
 		<fanart></fanart>
 		<summary>Comedy Movies</summary>
