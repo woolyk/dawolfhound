@@ -1,36 +1,79 @@
     <dir>
-      <title>My Lists Updated-</title>
+      <title>My Lists Updated</title>
 	  <trakt>https://api.trakt.tv/users/wolfd01/lists/</trakt>
-	  <thumbnail></thumbnail>
-	  <fanart></fanart>
+	  <thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
+	  <fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
 	  <summary>All my Movie lists</summary>
     </dir>
 	
 	<dir>
-		<title>Comedy Movies-</title>
+		<title>Comedy</title>
 		<trakt>https://api.trakt.tv/users/wolfd01/lists/comedy-movies</trakt>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
-		<fanart></fanart>
+		<fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
 		<summary>Comedy Movies</summary>
 	</dir>
 	
 	<dir>
-		<title>SyFy Movies-</title>
+		<title>SyFy</title>
 		<trakt>https://api.trakt.tv/users/wolfd01/lists/syfy-movies</trakt>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
-		<fanart></fanart>
+		<fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
 		<summary>Science Fiction Movies</summary>
 	</dir>
+
+	<dir>
+		<title>Action</title>
+		<trakt></trakt>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
+		<summary>Action Movies</summary>
+	</dir>
 	
+	<dir>
+		<title>War</title>
+		<trakt>https://trakt.tv/users/wolfd01/lists/war-movies</trakt>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
+		<summary>War Movies</summary>
+	</dir>
+
+	<dir>
+		<title>Sherlock Holmes</title>
+		<trakt>https://trakt.tv/users/wolfd01/lists/sherlock-holmes-movies</trakt>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
+		<summary>Sherlock Holmes Movies</summary>
+	</dir>
+
+	<dir>
+		<title>Agatha Christie</title>
+		<trakt>https://trakt.tv/users/wolfd01/lists/agatha-christie-movies</trakt>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
+		<summary>Agatha Christie Movies</summary>
+	</dir>
+
+	<dir>
+		<title></title>
+		<trakt></trakt>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
+		<summary></summary>
+	</dir>
+
     <dir>
 		<title>Trending Movies</title>
 		<trakt>https://api.trakt.tv/movies/trending</trakt>
-    </dir>	
+ 		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
+		<summary>Movies Trending Now</summary>
+   </dir>	
     
 	<dir>
       <title>Search Trakt</title>
       <trakt>search</trakt>
 	  <thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/search.png</thumbnail>
-	  <fanart></fanart>
+	  <fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
 	  <summary>Search for Movies</summary>
     </dir>
