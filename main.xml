@@ -1,18 +1,8 @@
-<xml>
+<xml> 
 	<dir>
-		<title>Formats</title>
-		<link>file://formats/main.xml</link>
-	</dir>
-
-	<dir>
-		<title>Shared Lists</title>
-		<link>file://shared lists/main.xml</link>
-	</dir>
-  
-	<dir>
-		<title>Movies</table>
+		<title>Movies</title>
 		<link>https://raw.githubusercontent.com/woolyk/dawolfhound/master/movies/main.xml</link>
-		<thumbnail></thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/movies.png</thumbnail>
 		<fanart></fanart>
 		<summary>Movies</summary>
 	</dir>
@@ -20,9 +10,8 @@
 	<dir>
 		<title>TV Shows</title>
 		<link></link>
-		<thumbnail></thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/tvshows.png</thumbnail>
 		<fanart></fanart>
 		<summary>TV Shows</summary>
-	</dir>
-	
+	</dir>	
 </xml>
