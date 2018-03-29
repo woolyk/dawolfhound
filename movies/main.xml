@@ -8,7 +8,7 @@
 	
 	<dir>
 		<title>Comedy</title>
-		<trakt>https://api.trakt.tv/users/wolfd01/lists/comedy-movies</trakt>
+		<trakt>https://api.trakt.tv/users/wolfd01/lists/comedy-movies/</trakt>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
 		<summary>Comedy Movies</summary>
@@ -16,7 +16,7 @@
 	
 	<dir>
 		<title>SyFy</title>
-		<trakt>https://api.trakt.tv/users/wolfd01/lists/syfy-movies</trakt>
+		<trakt>https://api.trakt.tv/users/wolfd01/lists/syfy-movies/</trakt>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
 		<summary>Science Fiction Movies</summary>
@@ -24,7 +24,7 @@
 
 	<dir>
 		<title>Action</title>
-		<trakt></trakt>
+		<trakt>https://api.trakt.tv/users/wolfd01/lists/action-movies</trakt>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
 		<summary>Action Movies</summary>
@@ -32,7 +32,7 @@
 	
 	<dir>
 		<title>War</title>
-		<trakt>https://trakt.tv/users/wolfd01/lists/war-movies</trakt>
+		<trakt>https://api.trakt.tv/users/wolfd01/lists/war-movies/</trakt>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
 		<summary>War Movies</summary>
@@ -40,26 +40,18 @@
 
 	<dir>
 		<title>Sherlock Holmes</title>
-		<trakt>https://trakt.tv/users/wolfd01/lists/sherlock-holmes-movies</trakt>
-		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
+		<trakt>https://api.trakt.tv/users/wolfd01/lists/sherlock-holmes-movies</trakt>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png/</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
 		<summary>Sherlock Holmes Movies</summary>
 	</dir>
 
 	<dir>
 		<title>Agatha Christie</title>
-		<trakt>https://trakt.tv/users/wolfd01/lists/agatha-christie-movies</trakt>
+		<trakt>https://api.trakt.tv/users/wolfd01/lists/agatha-christie-movies</trakt>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
 		<summary>Agatha Christie Movies</summary>
-	</dir>
-
-	<dir>
-		<title></title>
-		<trakt></trakt>
-		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
-		<fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
-		<summary></summary>
 	</dir>
 
     <dir>
