@@ -13,5 +13,12 @@
 		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/tvshows.png</thumbnail>
 		<fanart></fanart>
 		<summary>TV Shows</summary>
-	</dir>	
+	</dir>
+	
+	<plugin>
+		<name>30701</name>
+		<link>plugin://plugin.video.dawolfhound/?action=openSettings</link>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/tools.png</thumbnail>
+		<fanart></fanart>
+	</plugin>
 </xml>
