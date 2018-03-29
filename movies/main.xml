@@ -1,9 +1,9 @@
     <dir>
-      <title>My Lists Updated</title>
-	  <trakt>https://api.trakt.tv/users/wolfd01/lists/</trakt>
-	  <thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
-	  <fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
-	  <summary>All my Movie lists</summary>
+		<title>My Lists Updated</title>
+		<trakt>https://api.trakt.tv/users/wolfd01/lists/</trakt>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
+		<summary>All my Movie lists</summary>
     </dir>
 	
 	<dir>
@@ -32,7 +32,7 @@
 	
 	<dir>
 		<title>War</title>
-		<trakt>https://api.trakt.tv/users/wolfd01/lists/war-movies/</trakt>
+		<trakt>https://api.trakt.tv/users/wolfd01/lists/4682507/</trakt>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/mymovies.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/dawolfhound/master/media/dawolfhound/fanart.jpg</fanart>
 		<summary>War Movies</summary>
